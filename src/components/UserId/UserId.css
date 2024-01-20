@@ -1,0 +1,31 @@
+.userimg{
+    width: 400px;
+    height: 400px;
+    
+}
+.user{
+    float: left;
+    border: 1px solid rgb(253, 195, 195);
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 16px;
+    margin-left: 10px;
+    box-shadow: 10px 10px 15px rgb(237, 230, 230);
+    height:700px;
+    width:400px;
+    text-align: center;
+    background-color: rgb(217, 80, 248);
+    color: rgb(0, 0, 0);
+   
+   
+}
+.user button {
+    color: rgb(7, 213, 213);
+    width: 160px;
+    height: 40px;
+    background-color: rgb(244, 158, 11);
+    border-radius: 10px;
+    color: white;
+
+}
+
