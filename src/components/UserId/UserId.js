@@ -14,6 +14,7 @@ const UserId = (props) => {
     const navigate =  useNavigate();
  function handleClick(friendId) {
     navigate(`/UserId/${friendId}`);
+    
   }
   
     return (

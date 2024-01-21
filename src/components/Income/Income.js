@@ -5,6 +5,7 @@ import Header from './../Header/Header';
 const Income = (props) => {
     const income = props.income;
     const total= income.reduce((total , prd) => total + prd.income,0);
+   
     return (
         <div className='cart'>
 
